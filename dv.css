@@ -1,0 +1,27 @@
+body {
+font-family: monospace;
+
+}
+.container {
+background-color: rgb(235, 172, 235);
+height: 250px;
+viewport-fit: 100vw;
+display: flex;
+justify-content: center;
+
+}
+#filha {
+background-color:#FF69B4;
+height: 100vh;
+width:250px;
+border: 20px solid rgb(199, 24, 24);
+}
+#filha2 {
+background-color:aqua;
+height: 88vh;
+width: 30vw; 
+} 
+
+
+
+
