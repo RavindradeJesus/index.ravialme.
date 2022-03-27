@@ -1,0 +1,32 @@
+body {
+background-color: #D3D3D3;
+
+
+}
+.container {
+background-color: white;
+height: 500px;
+viewport-fit: 50vw;
+border: 10px dotted black ;
+display: flex;
+flex-direction: column;
+justify-content: center ;
+}
+#ravi {
+background-color:yellow;
+height: 50px;
+viewport-fit: 30%;
+}
+#boxv{
+background-color: #FF8C00;
+height: 100px;
+viewport-fit: 30%;
+
+}
+.alone {
+background-color: rgb(4, 182, 4);
+color: white;
+font-size:30px;
+padding: 50px;
+margin-top: 50px left;
+}
